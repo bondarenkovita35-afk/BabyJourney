@@ -1,5 +1,7 @@
 # Vitaliia Sivakova - LIA-portfolio för Baby Journey
 
+https://bondarenkovita35-afk.github.io/BabyJourney/
+
 En responsiv, statisk portfolio för ansökan till Praktik / LIA - Tech & Data hos Baby Journey i Stockholm.
 
 ## Innehåll
